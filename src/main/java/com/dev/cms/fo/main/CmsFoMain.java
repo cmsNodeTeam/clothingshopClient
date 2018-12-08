@@ -1,4 +1,4 @@
-package com.cms.fo.main;
+package com.dev.cms.fo.main;
 
 public class CmsFoMain {
 
