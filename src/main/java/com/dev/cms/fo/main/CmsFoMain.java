@@ -3,6 +3,6 @@ package com.dev.cms.fo.main;
 public class CmsFoMain {
 
 	public static void main(String[] args) {
-		System.out.println("成功1");
+		System.out.println("成功12");
 	}
 }
